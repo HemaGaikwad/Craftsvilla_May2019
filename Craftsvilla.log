@@ -1,0 +1,602 @@
+2019-07-06 09:45:56 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (60f17daf574cf960c81ed92780ab408f)] -> xpath: //span[text()='Sign In']] found
+2019-07-06 09:45:57 INFO  BasePage:67 - Mouse hover event : Mousehovered on [[ChromeDriver: chrome on XP (60f17daf574cf960c81ed92780ab408f)] -> xpath: //span[text()='Sign In']]
+2019-07-06 09:45:57 INFO  BasePage:98 - 
+2019-07-06 09:45:57 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (60f17daf574cf960c81ed92780ab408f)] -> link text: Cotton Sarees] found
+2019-07-06 09:47:24 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (8a36accf0afa3651dc0d1f63478f5f67)] -> xpath: //span[text()='Sign In']] found
+2019-07-06 09:47:26 INFO  BasePage:67 - Mouse hover event : Mousehovered on [[ChromeDriver: chrome on XP (8a36accf0afa3651dc0d1f63478f5f67)] -> xpath: //span[text()='Sign In']]
+2019-07-06 09:47:26 INFO  BasePage:98 - 
+2019-07-06 09:47:26 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (8a36accf0afa3651dc0d1f63478f5f67)] -> link text: Cotton Sarees] found
+2019-07-06 09:48:03 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (4a0a05c2df3e19196a59f84a155c3f2b)] -> xpath: //span[text()='Sign In']] found
+2019-07-06 09:48:03 INFO  BasePage:67 - Mouse hover event : Mousehovered on [[ChromeDriver: chrome on XP (4a0a05c2df3e19196a59f84a155c3f2b)] -> xpath: //span[text()='Sign In']]
+2019-07-06 09:48:03 INFO  BasePage:98 - 
+2019-07-06 09:48:04 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (4a0a05c2df3e19196a59f84a155c3f2b)] -> link text: Cotton Sarees] found
+2019-07-06 09:49:14 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (67d6c127992c8d35e9765548f6fa70af)] -> xpath: //span[text()='Sign In']] found
+2019-07-06 09:49:14 INFO  BasePage:67 - Mouse hover event : Mousehovered on [[ChromeDriver: chrome on XP (67d6c127992c8d35e9765548f6fa70af)] -> xpath: //span[text()='Sign In']]
+2019-07-06 09:49:14 INFO  BasePage:98 - 
+2019-07-06 09:49:44 ERROR BasePage:54 - Verify element visible : Proxy element for: DefaultElementLocator 'By.linkText: Linen Sarees' not found - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.linkText: Linen Sarees' (tried for 10 second(s) with 500 milliseconds interval)
+2019-07-06 09:50:37 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (ee0ab299cea826aa57695f13059e4880)] -> xpath: //span[text()='Sign In']] found
+2019-07-06 09:50:37 INFO  BasePage:67 - Mouse hover event : Mousehovered on [[ChromeDriver: chrome on XP (ee0ab299cea826aa57695f13059e4880)] -> xpath: //span[text()='Sign In']]
+2019-07-06 09:50:37 INFO  BasePage:98 - 
+2019-07-06 09:50:43 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (ee0ab299cea826aa57695f13059e4880)] -> link text: Linen Sarees] found
+2019-07-06 09:50:50 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (ee0ab299cea826aa57695f13059e4880)] -> xpath: //img[contains(@src,'1546488184-Craftsvilla_1.jpg')]] found
+2019-07-06 09:50:57 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (ee0ab299cea826aa57695f13059e4880)] -> id: buynow] found
+2019-07-06 09:59:01 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3b28d3a5b750f9efece07f92e4b9d2a0)] -> xpath: //span[text()='Sign In']] found
+2019-07-06 09:59:02 INFO  BasePage:67 - Mouse hover event : Mousehovered on [[ChromeDriver: chrome on XP (3b28d3a5b750f9efece07f92e4b9d2a0)] -> xpath: //span[text()='Sign In']]
+2019-07-06 09:59:02 INFO  BasePage:98 - 
+2019-07-06 09:59:02 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3b28d3a5b750f9efece07f92e4b9d2a0)] -> link text: Linen Sarees] found
+2019-07-06 09:59:21 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3b28d3a5b750f9efece07f92e4b9d2a0)] -> xpath: //img[contains(@src,'1546488184-Craftsvilla_1.jpg')]] found
+2019-07-06 09:59:26 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3b28d3a5b750f9efece07f92e4b9d2a0)] -> id: buynow] found
+2019-07-06 09:59:30 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3b28d3a5b750f9efece07f92e4b9d2a0)] -> id: login-mobile] found
+2019-07-06 09:59:30 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3b28d3a5b750f9efece07f92e4b9d2a0)] -> id: js-lg-otp] found
+2019-07-06 10:00:05 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (020cf53db0b7467760930beb3d54eb83)] -> xpath: //span[text()='Sign In']] found
+2019-07-06 10:00:06 INFO  BasePage:67 - Mouse hover event : Mousehovered on [[ChromeDriver: chrome on XP (020cf53db0b7467760930beb3d54eb83)] -> xpath: //span[text()='Sign In']]
+2019-07-06 10:00:06 INFO  BasePage:98 - 
+2019-07-06 10:00:14 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (020cf53db0b7467760930beb3d54eb83)] -> link text: Linen Sarees] found
+2019-07-06 10:00:21 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (020cf53db0b7467760930beb3d54eb83)] -> xpath: //img[contains(@src,'1546488184-Craftsvilla_1.jpg')]] found
+2019-07-06 10:00:30 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (020cf53db0b7467760930beb3d54eb83)] -> id: buynow] found
+2019-07-06 10:00:35 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (020cf53db0b7467760930beb3d54eb83)] -> id: login-mobile] found
+2019-07-06 10:00:36 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (020cf53db0b7467760930beb3d54eb83)] -> id: js-lg-otp] found
+2019-07-06 10:10:39 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (09e14d95826723adc38de1f651e232ed)] -> xpath: //span[text()='Sign In']] found
+2019-07-06 10:10:39 INFO  BasePage:67 - Mouse hover event : Mousehovered on [[ChromeDriver: chrome on XP (09e14d95826723adc38de1f651e232ed)] -> xpath: //span[text()='Sign In']]
+2019-07-06 10:10:39 INFO  BasePage:98 - 
+2019-07-06 10:10:53 ERROR BasePage:54 - Verify element visible : [[ChromeDriver: chrome on XP (09e14d95826723adc38de1f651e232ed)] -> link text: Linen Sarees] not found - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (09e14d95826723adc38de1f651e232ed)] -> link text: Linen Sarees] (tried for 10 second(s) with 500 milliseconds interval)
+2019-07-06 10:11:00 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (09e14d95826723adc38de1f651e232ed)] -> xpath: //img[contains(@src,'1546488184-Craftsvilla_1.jpg')]] found
+2019-07-06 10:11:05 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (09e14d95826723adc38de1f651e232ed)] -> id: buynow] found
+2019-07-06 10:11:08 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (09e14d95826723adc38de1f651e232ed)] -> id: login-mobile] found
+2019-07-06 10:11:09 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (09e14d95826723adc38de1f651e232ed)] -> id: js-lg-otp] found
+2019-07-06 10:25:26 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (7ea3fe9fc86759030c15ae79be40873e)] -> xpath: //span[text()='Sign In']] found
+2019-07-06 10:25:26 INFO  BasePage:67 - Mouse hover event : Mousehovered on [[ChromeDriver: chrome on XP (7ea3fe9fc86759030c15ae79be40873e)] -> xpath: //span[text()='Sign In']]
+2019-07-06 10:25:26 INFO  BasePage:98 - 
+2019-07-06 10:25:30 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (7ea3fe9fc86759030c15ae79be40873e)] -> link text: Linen Sarees] found
+2019-07-06 10:25:38 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (7ea3fe9fc86759030c15ae79be40873e)] -> xpath: //img[contains(@src,'1546488184-Craftsvilla_1.jpg')]] found
+2019-07-06 10:25:43 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (7ea3fe9fc86759030c15ae79be40873e)] -> id: buynow] found
+2019-07-06 10:25:47 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (7ea3fe9fc86759030c15ae79be40873e)] -> id: login-mobile] found
+2019-07-06 10:25:48 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (7ea3fe9fc86759030c15ae79be40873e)] -> id: js-otp-message] found
+2019-07-06 10:25:48 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (7ea3fe9fc86759030c15ae79be40873e)] -> id: js-lg-otp] found
+2019-07-06 10:25:49 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (7ea3fe9fc86759030c15ae79be40873e)] -> xpath: //button[text()='Login With OTP']] found
+2019-07-06 10:26:19 ERROR BasePage:54 - Verify element visible : Proxy element for: DefaultElementLocator 'By.id: address-first-name' not found - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: address-first-name' (tried for 10 second(s) with 500 milliseconds interval)
+2019-07-06 19:09:11 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (a6dd106efc47ab97211be597089f2e20)] -> xpath: //span[text()='Sign In']] found
+2019-07-06 19:09:11 INFO  BasePage:69 - 
+2019-07-06 19:09:12 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (a6dd106efc47ab97211be597089f2e20)] -> id: emailId] found
+2019-07-06 19:09:13 INFO  BasePage:79 - abitha12345.j@gmail.com has been set to [[ChromeDriver: chrome on XP (a6dd106efc47ab97211be597089f2e20)] -> id: emailId]
+2019-07-06 19:09:13 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (a6dd106efc47ab97211be597089f2e20)] -> id: continueBtn] found
+2019-07-06 19:09:13 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (a6dd106efc47ab97211be597089f2e20)] -> id: continueBtn]
+2019-07-06 19:09:14 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (a6dd106efc47ab97211be597089f2e20)] -> id: js-password] found
+2019-07-06 19:09:14 INFO  BasePage:107 - Apple12346 has been set to [[ChromeDriver: chrome on XP (a6dd106efc47ab97211be597089f2e20)] -> id: js-password]
+2019-07-06 19:09:14 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (a6dd106efc47ab97211be597089f2e20)] -> id: loginCheck] found
+2019-07-06 19:09:14 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (a6dd106efc47ab97211be597089f2e20)] -> id: loginCheck]
+2019-07-06 19:09:45 ERROR BasePage:54 - Verify element visible : Proxy element for: DefaultElementLocator 'By.xpath: //i[@class='icon first_arrow hidden-xs']' not found - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //i[@class='icon first_arrow hidden-xs']' (tried for 10 second(s) with 500 milliseconds interval)
+2019-07-06 19:10:05 ERROR BasePage:71 - Mouse hover event : Unable to mousehovere on Proxy element for: DefaultElementLocator 'By.xpath: //i[@class='icon first_arrow hidden-xs']' - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//i[@class='icon first_arrow hidden-xs']"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:52992}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: a6dd106efc47ab97211be597089f2e20
+*** Element info: {Using=xpath, value=//i[@class='icon first_arrow hidden-xs']}
+2019-07-06 19:10:35 ERROR BasePage:54 - Verify element visible : Proxy element for: DefaultElementLocator 'By.xpath: //i[@class='icon logout']' not found - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //i[@class='icon logout']' (tried for 10 second(s) with 500 milliseconds interval)
+2019-07-06 19:11:16 ERROR BasePage:54 - Verify element visible : Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Sign In']' not found - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Sign In']' (tried for 10 second(s) with 500 milliseconds interval)
+2019-07-06 19:11:26 ERROR BasePage:73 - 
+2019-07-06 19:11:36 ERROR BasePage:54 - Verify element visible : [[ChromeDriver: chrome on XP (a6dd106efc47ab97211be597089f2e20)] -> id: emailId] not found - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (a6dd106efc47ab97211be597089f2e20)] -> id: emailId] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:52992}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: a6dd106efc47ab97211be597089f2e20
+2019-07-06 19:11:46 ERROR BasePage:83 - unable to setsudarshan@gmail.com to [[ChromeDriver: chrome on XP (a6dd106efc47ab97211be597089f2e20)] -> id: emailId]org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:52992}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: a6dd106efc47ab97211be597089f2e20
+2019-07-06 19:11:56 ERROR BasePage:54 - Verify element visible : [[ChromeDriver: chrome on XP (a6dd106efc47ab97211be597089f2e20)] -> id: continueBtn] not found - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (a6dd106efc47ab97211be597089f2e20)] -> id: continueBtn] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:52992}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: a6dd106efc47ab97211be597089f2e20
+2019-07-06 19:12:07 ERROR BasePage:97 - unable to click on [[ChromeDriver: chrome on XP (a6dd106efc47ab97211be597089f2e20)] -> id: continueBtn]org.openqa.selenium.ElementNotVisibleException: element not interactable
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:52992}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: a6dd106efc47ab97211be597089f2e20
+2019-07-06 19:12:17 ERROR BasePage:54 - Verify element visible : [[ChromeDriver: chrome on XP (a6dd106efc47ab97211be597089f2e20)] -> id: js-password] not found - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (a6dd106efc47ab97211be597089f2e20)] -> id: js-password] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:52992}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: a6dd106efc47ab97211be597089f2e20
+2019-07-06 19:12:27 ERROR BasePage:111 - unable to setApple12347 to [[ChromeDriver: chrome on XP (a6dd106efc47ab97211be597089f2e20)] -> id: js-password]org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:52992}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: a6dd106efc47ab97211be597089f2e20
+2019-07-06 19:12:57 ERROR BasePage:54 - Verify element visible : Proxy element for: DefaultElementLocator 'By.id: loginCheck' not found - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: loginCheck' (tried for 10 second(s) with 500 milliseconds interval)
+2019-07-06 19:13:17 ERROR BasePage:126 - Unable to click on Proxy element for: DefaultElementLocator 'By.id: loginCheck'org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"loginCheck"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:52992}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: a6dd106efc47ab97211be597089f2e20
+*** Element info: {Using=id, value=loginCheck}
+2019-07-06 19:13:47 ERROR BasePage:54 - Verify element visible : Proxy element for: DefaultElementLocator 'By.xpath: //i[@class='icon first_arrow hidden-xs']' not found - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //i[@class='icon first_arrow hidden-xs']' (tried for 10 second(s) with 500 milliseconds interval)
+2019-07-06 19:14:08 ERROR BasePage:71 - Mouse hover event : Unable to mousehovere on Proxy element for: DefaultElementLocator 'By.xpath: //i[@class='icon first_arrow hidden-xs']' - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//i[@class='icon first_arrow hidden-xs']"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:52992}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: a6dd106efc47ab97211be597089f2e20
+*** Element info: {Using=xpath, value=//i[@class='icon first_arrow hidden-xs']}
+2019-07-06 19:14:08 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3229e433f79733afa957418790ca92aa)] -> xpath: //span[text()='Sign In']] found
+2019-07-06 19:14:08 INFO  BasePage:69 - 
+2019-07-06 19:14:09 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3229e433f79733afa957418790ca92aa)] -> id: emailId] found
+2019-07-06 19:14:09 INFO  BasePage:79 - abitha12345.j@gmail.com has been set to [[ChromeDriver: chrome on XP (3229e433f79733afa957418790ca92aa)] -> id: emailId]
+2019-07-06 19:14:09 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3229e433f79733afa957418790ca92aa)] -> id: continueBtn] found
+2019-07-06 19:14:10 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (3229e433f79733afa957418790ca92aa)] -> id: continueBtn]
+2019-07-06 19:14:10 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3229e433f79733afa957418790ca92aa)] -> id: js-password] found
+2019-07-06 19:14:10 INFO  BasePage:107 - Apple12346 has been set to [[ChromeDriver: chrome on XP (3229e433f79733afa957418790ca92aa)] -> id: js-password]
+2019-07-06 19:14:10 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3229e433f79733afa957418790ca92aa)] -> id: loginCheck] found
+2019-07-06 19:14:11 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (3229e433f79733afa957418790ca92aa)] -> id: loginCheck]
+2019-07-06 19:14:18 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3229e433f79733afa957418790ca92aa)] -> xpath: //span[text()='My Account']] found
+2019-07-06 19:14:20 INFO  BasePage:67 - Mouse hover event : Mousehovered on [[ChromeDriver: chrome on XP (3229e433f79733afa957418790ca92aa)] -> xpath: //span[text()='My Account']]
+2019-07-06 19:14:20 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3229e433f79733afa957418790ca92aa)] -> xpath: //img[@class='logout-icon mr-2']] found
+2019-07-06 19:14:23 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3229e433f79733afa957418790ca92aa)] -> xpath: //span[text()='Sign In']] found
+2019-07-06 19:14:24 ERROR BasePage:73 - 
+2019-07-06 19:14:35 ERROR BasePage:54 - Verify element visible : [[ChromeDriver: chrome on XP (3229e433f79733afa957418790ca92aa)] -> id: emailId] not found - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (3229e433f79733afa957418790ca92aa)] -> id: emailId] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:53486}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 3229e433f79733afa957418790ca92aa
+2019-07-06 19:14:38 ERROR BasePage:54 - Verify element visible : Proxy element for: DefaultElementLocator 'By.xpath: //i[@class='icon logout']' not found - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //i[@class='icon logout']' (tried for 10 second(s) with 500 milliseconds interval)
+2019-07-06 19:14:45 ERROR BasePage:83 - unable to setsudarshan@gmail.com to [[ChromeDriver: chrome on XP (3229e433f79733afa957418790ca92aa)] -> id: emailId]org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:53486}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 3229e433f79733afa957418790ca92aa
+2019-07-06 19:14:55 ERROR BasePage:54 - Verify element visible : [[ChromeDriver: chrome on XP (3229e433f79733afa957418790ca92aa)] -> id: continueBtn] not found - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (3229e433f79733afa957418790ca92aa)] -> id: continueBtn] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:53486}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 3229e433f79733afa957418790ca92aa
+2019-07-06 19:15:05 ERROR BasePage:97 - unable to click on [[ChromeDriver: chrome on XP (3229e433f79733afa957418790ca92aa)] -> id: continueBtn]org.openqa.selenium.ElementNotVisibleException: element not interactable
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:53486}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 3229e433f79733afa957418790ca92aa
+2019-07-06 19:15:16 ERROR BasePage:54 - Verify element visible : [[ChromeDriver: chrome on XP (3229e433f79733afa957418790ca92aa)] -> id: js-password] not found - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (3229e433f79733afa957418790ca92aa)] -> id: js-password] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:53486}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 3229e433f79733afa957418790ca92aa
+2019-07-06 19:15:18 ERROR BasePage:54 - Verify element visible : Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Sign In']' not found - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Sign In']' (tried for 10 second(s) with 500 milliseconds interval)
+2019-07-06 19:15:26 ERROR BasePage:111 - unable to setApple12347 to [[ChromeDriver: chrome on XP (3229e433f79733afa957418790ca92aa)] -> id: js-password]org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:53486}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 3229e433f79733afa957418790ca92aa
+2019-07-06 19:15:28 ERROR BasePage:73 - 
+2019-07-06 19:15:38 ERROR BasePage:54 - Verify element visible : [[ChromeDriver: chrome on XP (a6dd106efc47ab97211be597089f2e20)] -> id: emailId] not found - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (a6dd106efc47ab97211be597089f2e20)] -> id: emailId] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:52992}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: a6dd106efc47ab97211be597089f2e20
+2019-07-06 19:15:49 ERROR BasePage:83 - unable to setyomi@gmail.com to [[ChromeDriver: chrome on XP (a6dd106efc47ab97211be597089f2e20)] -> id: emailId]org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:52992}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: a6dd106efc47ab97211be597089f2e20
+2019-07-06 19:15:56 ERROR BasePage:54 - Verify element visible : Proxy element for: DefaultElementLocator 'By.id: loginCheck' not found - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: loginCheck' (tried for 10 second(s) with 500 milliseconds interval)
+2019-07-06 19:15:59 ERROR BasePage:54 - Verify element visible : [[ChromeDriver: chrome on XP (a6dd106efc47ab97211be597089f2e20)] -> id: continueBtn] not found - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (a6dd106efc47ab97211be597089f2e20)] -> id: continueBtn] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:52992}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: a6dd106efc47ab97211be597089f2e20
+2019-07-06 19:16:09 ERROR BasePage:97 - unable to click on [[ChromeDriver: chrome on XP (a6dd106efc47ab97211be597089f2e20)] -> id: continueBtn]org.openqa.selenium.ElementNotVisibleException: element not interactable
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:52992}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: a6dd106efc47ab97211be597089f2e20
+2019-07-06 19:16:16 ERROR BasePage:126 - Unable to click on Proxy element for: DefaultElementLocator 'By.id: loginCheck'org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"loginCheck"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:53486}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 3229e433f79733afa957418790ca92aa
+*** Element info: {Using=id, value=loginCheck}
+2019-07-06 19:16:19 ERROR BasePage:54 - Verify element visible : [[ChromeDriver: chrome on XP (a6dd106efc47ab97211be597089f2e20)] -> id: js-password] not found - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (a6dd106efc47ab97211be597089f2e20)] -> id: js-password] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:52992}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: a6dd106efc47ab97211be597089f2e20
+2019-07-06 19:17:04 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (26690603d9e5b61b884e3105c18c91c9)] -> xpath: //span[text()='Sign In']] found
+2019-07-06 19:17:05 INFO  BasePage:69 - 
+2019-07-06 19:17:05 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (26690603d9e5b61b884e3105c18c91c9)] -> id: emailId] found
+2019-07-06 19:17:06 INFO  BasePage:79 - abitha12345.j@gmail.com has been set to [[ChromeDriver: chrome on XP (26690603d9e5b61b884e3105c18c91c9)] -> id: emailId]
+2019-07-06 19:17:06 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (26690603d9e5b61b884e3105c18c91c9)] -> id: continueBtn] found
+2019-07-06 19:17:06 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (26690603d9e5b61b884e3105c18c91c9)] -> id: continueBtn]
+2019-07-06 19:17:07 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (26690603d9e5b61b884e3105c18c91c9)] -> id: js-password] found
+2019-07-06 19:17:07 INFO  BasePage:107 - Apple12346 has been set to [[ChromeDriver: chrome on XP (26690603d9e5b61b884e3105c18c91c9)] -> id: js-password]
+2019-07-06 19:17:07 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (26690603d9e5b61b884e3105c18c91c9)] -> id: loginCheck] found
+2019-07-06 19:17:07 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (26690603d9e5b61b884e3105c18c91c9)] -> id: loginCheck]
+2019-07-06 19:17:14 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (26690603d9e5b61b884e3105c18c91c9)] -> xpath: //span[text()='My Account']] found
+2019-07-06 19:17:14 INFO  BasePage:67 - Mouse hover event : Mousehovered on [[ChromeDriver: chrome on XP (26690603d9e5b61b884e3105c18c91c9)] -> xpath: //span[text()='My Account']]
+2019-07-06 19:17:34 ERROR BasePage:54 - Verify element visible : [[ChromeDriver: chrome on XP (26690603d9e5b61b884e3105c18c91c9)] -> xpath: //span[text()='Sign In']] not found - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (26690603d9e5b61b884e3105c18c91c9)] -> xpath: //span[text()='Sign In']] (tried for 10 second(s) with 500 milliseconds interval)
+2019-07-06 19:17:35 ERROR BasePage:73 - 
+2019-07-06 19:17:45 ERROR BasePage:54 - Verify element visible : [[ChromeDriver: chrome on XP (26690603d9e5b61b884e3105c18c91c9)] -> id: emailId] not found - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (26690603d9e5b61b884e3105c18c91c9)] -> id: emailId] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:53875}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 26690603d9e5b61b884e3105c18c91c9
+2019-07-06 19:17:55 ERROR BasePage:83 - unable to setsudarshan@gmail.com to [[ChromeDriver: chrome on XP (26690603d9e5b61b884e3105c18c91c9)] -> id: emailId]org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:53875}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: 26690603d9e5b61b884e3105c18c91c9
+2019-07-06 19:18:00 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (26690603d9e5b61b884e3105c18c91c9)] -> id: continueBtn] found
+2019-07-06 19:18:00 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (26690603d9e5b61b884e3105c18c91c9)] -> id: continueBtn]
+2019-07-06 19:19:40 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> xpath: //span[text()='Sign In']] found
+2019-07-06 19:19:41 INFO  BasePage:69 - 
+2019-07-06 19:19:41 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: emailId] found
+2019-07-06 19:19:42 INFO  BasePage:79 - abitha12345.j@gmail.com has been set to [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: emailId]
+2019-07-06 19:19:42 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: continueBtn] found
+2019-07-06 19:19:42 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: continueBtn]
+2019-07-06 19:19:43 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: js-password] found
+2019-07-06 19:19:43 INFO  BasePage:107 - Apple12346 has been set to [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: js-password]
+2019-07-06 19:19:43 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: loginCheck] found
+2019-07-06 19:19:43 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: loginCheck]
+2019-07-06 19:19:51 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> xpath: //span[text()='My Account']] found
+2019-07-06 19:19:51 INFO  BasePage:67 - Mouse hover event : Mousehovered on [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> xpath: //span[text()='My Account']]
+2019-07-06 19:19:51 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> xpath: //img[@class='logout-icon mr-2']] found
+2019-07-06 19:19:51 INFO  BasePage:33 - Page title validation : Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla are matched
+2019-07-06 19:19:54 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> xpath: //span[text()='Sign In']] found
+2019-07-06 19:19:54 INFO  BasePage:69 - 
+2019-07-06 19:19:54 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: emailId] found
+2019-07-06 19:19:55 INFO  BasePage:79 - sudarshan@gmail.com has been set to [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: emailId]
+2019-07-06 19:19:55 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: continueBtn] found
+2019-07-06 19:19:55 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: continueBtn]
+2019-07-06 19:19:56 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: js-password] found
+2019-07-06 19:19:56 INFO  BasePage:107 - Apple12347 has been set to [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: js-password]
+2019-07-06 19:19:56 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: loginCheck] found
+2019-07-06 19:19:56 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: loginCheck]
+2019-07-06 19:20:03 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> xpath: //span[text()='My Account']] found
+2019-07-06 19:20:03 INFO  BasePage:67 - Mouse hover event : Mousehovered on [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> xpath: //span[text()='My Account']]
+2019-07-06 19:20:03 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> xpath: //img[@class='logout-icon mr-2']] found
+2019-07-06 19:20:03 INFO  BasePage:33 - Page title validation : Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla are matched
+2019-07-06 19:20:06 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> xpath: //span[text()='Sign In']] found
+2019-07-06 19:20:07 INFO  BasePage:69 - 
+2019-07-06 19:20:07 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: emailId] found
+2019-07-06 19:20:08 INFO  BasePage:79 - yomi@gmail.com has been set to [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: emailId]
+2019-07-06 19:20:08 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: continueBtn] found
+2019-07-06 19:20:08 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: continueBtn]
+2019-07-06 19:20:08 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: js-password] found
+2019-07-06 19:20:09 INFO  BasePage:107 - Apple12348 has been set to [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: js-password]
+2019-07-06 19:20:09 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: loginCheck] found
+2019-07-06 19:20:09 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: loginCheck]
+2019-07-06 19:20:15 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> xpath: //span[text()='My Account']] found
+2019-07-06 19:20:15 INFO  BasePage:67 - Mouse hover event : Mousehovered on [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> xpath: //span[text()='My Account']]
+2019-07-06 19:20:15 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> xpath: //img[@class='logout-icon mr-2']] found
+2019-07-06 19:20:15 INFO  BasePage:33 - Page title validation : Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla are matched
+2019-07-06 19:20:18 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> xpath: //span[text()='Sign In']] found
+2019-07-06 19:20:18 INFO  BasePage:69 - 
+2019-07-06 19:20:19 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: emailId] found
+2019-07-06 19:20:19 INFO  BasePage:79 - prema@gmail.com has been set to [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: emailId]
+2019-07-06 19:20:19 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: continueBtn] found
+2019-07-06 19:20:19 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: continueBtn]
+2019-07-06 19:20:20 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: js-password] found
+2019-07-06 19:20:20 INFO  BasePage:107 - Apple12349 has been set to [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: js-password]
+2019-07-06 19:20:20 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: loginCheck] found
+2019-07-06 19:20:21 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (9b8cf32df941d765bb1f8f2fba915770)] -> id: loginCheck]
+2019-07-06 19:22:12 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (38e48cfeff2380fd99e4bed906b8f9a2)] -> xpath: //span[text()='Sign In']] found
+2019-07-06 19:22:12 INFO  BasePage:67 - Mouse hover event : Mousehovered on [[ChromeDriver: chrome on XP (38e48cfeff2380fd99e4bed906b8f9a2)] -> xpath: //span[text()='Sign In']]
+2019-07-06 19:22:12 INFO  BasePage:98 - 
+2019-07-06 19:22:36 ERROR BasePage:54 - Verify element visible : [[ChromeDriver: chrome on XP (38e48cfeff2380fd99e4bed906b8f9a2)] -> link text: Linen Sarees] not found - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.linkText: Linen Sarees' (tried for 10 second(s) with 500 milliseconds interval)
+2019-07-06 19:22:43 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (38e48cfeff2380fd99e4bed906b8f9a2)] -> xpath: //img[contains(@src,'1546488184-Craftsvilla_1.jpg')]] found
+2019-07-06 19:22:48 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (38e48cfeff2380fd99e4bed906b8f9a2)] -> id: buynow] found
+2019-07-06 19:22:53 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (38e48cfeff2380fd99e4bed906b8f9a2)] -> id: login-mobile] found
+2019-07-06 19:22:55 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (38e48cfeff2380fd99e4bed906b8f9a2)] -> id: js-otp-message] found
+2019-07-06 19:22:55 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (38e48cfeff2380fd99e4bed906b8f9a2)] -> id: js-lg-otp] found
+2019-07-06 19:22:55 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (38e48cfeff2380fd99e4bed906b8f9a2)] -> xpath: //button[text()='Login With OTP']] found
+2019-07-06 19:23:25 ERROR BasePage:54 - Verify element visible : Proxy element for: DefaultElementLocator 'By.id: address-first-name' not found - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: address-first-name' (tried for 10 second(s) with 500 milliseconds interval)
+2019-07-06 19:24:01 ERROR BasePage:54 - Verify element visible : Proxy element for: DefaultElementLocator 'By.id: address-email' not found - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: address-email' (tried for 10 second(s) with 500 milliseconds interval)
+2019-07-06 19:24:21 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (bd326f34e7469902abd2d72e3326eb4b)] -> xpath: //span[text()='Sign In']] found
+2019-07-06 19:24:21 INFO  BasePage:69 - 
+2019-07-06 19:24:22 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (bd326f34e7469902abd2d72e3326eb4b)] -> id: emailId] found
+2019-07-06 19:24:23 INFO  BasePage:79 - abitha12345.j@gmail.com has been set to [[ChromeDriver: chrome on XP (bd326f34e7469902abd2d72e3326eb4b)] -> id: emailId]
+2019-07-06 19:24:23 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (bd326f34e7469902abd2d72e3326eb4b)] -> id: continueBtn] found
+2019-07-06 19:24:23 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (bd326f34e7469902abd2d72e3326eb4b)] -> id: continueBtn]
+2019-07-06 19:24:24 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (bd326f34e7469902abd2d72e3326eb4b)] -> id: js-password] found
+2019-07-06 19:24:24 INFO  BasePage:107 - Apple12346 has been set to [[ChromeDriver: chrome on XP (bd326f34e7469902abd2d72e3326eb4b)] -> id: js-password]
+2019-07-06 19:24:24 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (bd326f34e7469902abd2d72e3326eb4b)] -> id: loginCheck] found
+2019-07-06 19:24:24 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (bd326f34e7469902abd2d72e3326eb4b)] -> id: loginCheck]
+2019-07-06 19:24:32 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (bd326f34e7469902abd2d72e3326eb4b)] -> xpath: //span[text()='My Account']] found
+2019-07-06 19:24:32 INFO  BasePage:67 - Mouse hover event : Mousehovered on [[ChromeDriver: chrome on XP (bd326f34e7469902abd2d72e3326eb4b)] -> xpath: //span[text()='My Account']]
+2019-07-06 19:24:32 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (bd326f34e7469902abd2d72e3326eb4b)] -> xpath: //img[@class='logout-icon mr-2']] found
+2019-07-06 19:24:32 INFO  BasePage:33 - Page title validation : Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla are matched
+2019-07-06 19:24:35 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (bd326f34e7469902abd2d72e3326eb4b)] -> xpath: //span[text()='Sign In']] found
+2019-07-06 19:24:35 INFO  BasePage:69 - 
+2019-07-06 19:24:36 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (bd326f34e7469902abd2d72e3326eb4b)] -> id: emailId] found
+2019-07-06 19:24:36 INFO  BasePage:79 - sudarshan@gmail.com has been set to [[ChromeDriver: chrome on XP (bd326f34e7469902abd2d72e3326eb4b)] -> id: emailId]
+2019-07-06 19:24:36 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (bd326f34e7469902abd2d72e3326eb4b)] -> id: continueBtn] found
+2019-07-06 19:24:36 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (bd326f34e7469902abd2d72e3326eb4b)] -> id: continueBtn]
+2019-07-06 19:24:37 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (bd326f34e7469902abd2d72e3326eb4b)] -> id: js-password] found
+2019-07-06 19:24:37 INFO  BasePage:107 - Apple12347 has been set to [[ChromeDriver: chrome on XP (bd326f34e7469902abd2d72e3326eb4b)] -> id: js-password]
+2019-07-06 19:24:37 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (bd326f34e7469902abd2d72e3326eb4b)] -> id: loginCheck] found
+2019-07-06 19:24:37 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (bd326f34e7469902abd2d72e3326eb4b)] -> id: loginCheck]
+2019-07-06 19:52:25 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> xpath: //span[text()='Sign In']] found
+2019-07-06 19:52:25 INFO  BasePage:69 - 
+2019-07-06 19:52:26 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> id: emailId] found
+2019-07-06 19:52:26 INFO  BasePage:79 - abitha12345.j@gmail.com has been set to [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> id: emailId]
+2019-07-06 19:52:26 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> id: continueBtn] found
+2019-07-06 19:52:27 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> id: continueBtn]
+2019-07-06 19:52:27 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> id: js-password] found
+2019-07-06 19:52:28 INFO  BasePage:107 - Apple12346 has been set to [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> id: js-password]
+2019-07-06 19:52:28 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> id: loginCheck] found
+2019-07-06 19:52:28 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> id: loginCheck]
+2019-07-06 19:52:34 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> xpath: //span[text()='My Account']] found
+2019-07-06 19:52:35 INFO  BasePage:67 - Mouse hover event : Mousehovered on [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> xpath: //span[text()='My Account']]
+2019-07-06 19:52:35 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> xpath: //img[@class='logout-icon mr-2']] found
+2019-07-06 19:52:35 INFO  BasePage:33 - Page title validation : Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla are matched
+2019-07-06 19:52:38 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> xpath: //span[text()='Sign In']] found
+2019-07-06 19:52:38 INFO  BasePage:69 - 
+2019-07-06 19:52:39 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> id: emailId] found
+2019-07-06 19:52:39 INFO  BasePage:79 - sudarshan@gmail.com has been set to [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> id: emailId]
+2019-07-06 19:52:40 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> id: continueBtn] found
+2019-07-06 19:52:40 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> id: continueBtn]
+2019-07-06 19:52:40 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> id: js-password] found
+2019-07-06 19:52:41 INFO  BasePage:107 - Apple12347 has been set to [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> id: js-password]
+2019-07-06 19:52:41 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> id: loginCheck] found
+2019-07-06 19:52:41 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> id: loginCheck]
+2019-07-06 19:52:48 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> xpath: //span[text()='My Account']] found
+2019-07-06 19:52:48 INFO  BasePage:67 - Mouse hover event : Mousehovered on [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> xpath: //span[text()='My Account']]
+2019-07-06 19:52:48 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> xpath: //img[@class='logout-icon mr-2']] found
+2019-07-06 19:52:48 INFO  BasePage:33 - Page title validation : Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla are matched
+2019-07-06 19:52:52 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> xpath: //span[text()='Sign In']] found
+2019-07-06 19:52:52 INFO  BasePage:69 - 
+2019-07-06 19:52:53 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> id: emailId] found
+2019-07-06 19:52:53 INFO  BasePage:79 - yomi@gmail.com has been set to [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> id: emailId]
+2019-07-06 19:52:53 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> id: continueBtn] found
+2019-07-06 19:52:54 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> id: continueBtn]
+2019-07-06 19:52:54 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> id: js-password] found
+2019-07-06 19:52:55 INFO  BasePage:107 - Apple12348 has been set to [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> id: js-password]
+2019-07-06 19:52:55 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> id: loginCheck] found
+2019-07-06 19:52:55 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> id: loginCheck]
+2019-07-06 19:53:02 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> xpath: //span[text()='My Account']] found
+2019-07-06 19:53:02 INFO  BasePage:67 - Mouse hover event : Mousehovered on [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> xpath: //span[text()='My Account']]
+2019-07-06 19:53:02 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (290197b18c7eb3d7b9a36728f91c1940)] -> xpath: //img[@class='logout-icon mr-2']] found
+2019-07-06 19:53:02 INFO  BasePage:33 - Page title validation : Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla are matched
+2019-07-06 20:53:05 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (c3ff957567f566691e560f25fe5ce91b)] -> xpath: //a[@href="/womens-clothing/sarees/?MID=megamenu_sarees_seeall"]] found
+2019-07-06 20:53:06 INFO  BasePage:67 - Mouse hover event : Mousehovered on [[ChromeDriver: chrome on XP (c3ff957567f566691e560f25fe5ce91b)] -> xpath: //a[@href="/womens-clothing/sarees/?MID=megamenu_sarees_seeall"]]
+2019-07-06 20:53:06 INFO  BasePage:98 - 
+2019-07-06 20:53:08 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (c3ff957567f566691e560f25fe5ce91b)] -> link text: Linen Sarees] found
+2019-07-06 20:53:20 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (c3ff957567f566691e560f25fe5ce91b)] -> xpath: //img[contains(@src,'1546488184-Craftsvilla_1.jpg')]] found
+2019-07-06 20:53:38 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (c3ff957567f566691e560f25fe5ce91b)] -> id: buynow] found
+2019-07-06 20:53:47 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (c3ff957567f566691e560f25fe5ce91b)] -> id: login-mobile] found
+2019-07-06 20:53:49 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (c3ff957567f566691e560f25fe5ce91b)] -> id: js-otp-message] found
+2019-07-06 20:53:49 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (c3ff957567f566691e560f25fe5ce91b)] -> id: js-lg-otp] found
+2019-07-06 20:53:50 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (c3ff957567f566691e560f25fe5ce91b)] -> xpath: //button[text()='Login With OTP']] found
+2019-07-06 21:08:59 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> xpath: //span[text()='Sign In']] found
+2019-07-06 21:09:00 INFO  BasePage:69 - 
+2019-07-06 21:09:01 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> id: emailId] found
+2019-07-06 21:09:02 INFO  BasePage:79 - abitha12345.j@gmail.com has been set to [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> id: emailId]
+2019-07-06 21:09:02 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> id: continueBtn] found
+2019-07-06 21:09:02 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> id: continueBtn]
+2019-07-06 21:09:03 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> id: js-password] found
+2019-07-06 21:09:03 INFO  BasePage:107 - Apple12346 has been set to [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> id: js-password]
+2019-07-06 21:09:04 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> id: loginCheck] found
+2019-07-06 21:09:04 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> id: loginCheck]
+2019-07-06 21:09:16 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> xpath: //span[text()='My Account']] found
+2019-07-06 21:09:17 INFO  BasePage:67 - Mouse hover event : Mousehovered on [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> xpath: //span[text()='My Account']]
+2019-07-06 21:09:17 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> xpath: //img[@class='logout-icon mr-2']] found
+2019-07-06 21:09:18 INFO  BasePage:33 - Page title validation : Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla are matched
+2019-07-06 21:09:23 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> xpath: //span[text()='Sign In']] found
+2019-07-06 21:09:23 INFO  BasePage:69 - 
+2019-07-06 21:09:24 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> id: emailId] found
+2019-07-06 21:09:26 INFO  BasePage:79 - sudarshan@gmail.com has been set to [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> id: emailId]
+2019-07-06 21:09:26 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> id: continueBtn] found
+2019-07-06 21:09:27 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> id: continueBtn]
+2019-07-06 21:09:27 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> id: js-password] found
+2019-07-06 21:09:28 INFO  BasePage:107 - Apple12347 has been set to [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> id: js-password]
+2019-07-06 21:09:28 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> id: loginCheck] found
+2019-07-06 21:09:28 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> id: loginCheck]
+2019-07-06 21:09:36 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> xpath: //span[text()='My Account']] found
+2019-07-06 21:09:36 INFO  BasePage:67 - Mouse hover event : Mousehovered on [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> xpath: //span[text()='My Account']]
+2019-07-06 21:09:36 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> xpath: //img[@class='logout-icon mr-2']] found
+2019-07-06 21:09:37 INFO  BasePage:33 - Page title validation : Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla are matched
+2019-07-06 21:09:41 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> xpath: //span[text()='Sign In']] found
+2019-07-06 21:09:42 INFO  BasePage:69 - 
+2019-07-06 21:09:43 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> id: emailId] found
+2019-07-06 21:09:43 INFO  BasePage:79 - yomi@gmail.com has been set to [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> id: emailId]
+2019-07-06 21:09:43 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> id: continueBtn] found
+2019-07-06 21:09:44 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> id: continueBtn]
+2019-07-06 21:09:45 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> id: js-password] found
+2019-07-06 21:09:45 INFO  BasePage:107 - Apple12348 has been set to [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> id: js-password]
+2019-07-06 21:09:45 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> id: loginCheck] found
+2019-07-06 21:09:45 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> id: loginCheck]
+2019-07-06 21:09:53 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> xpath: //span[text()='My Account']] found
+2019-07-06 21:09:53 INFO  BasePage:67 - Mouse hover event : Mousehovered on [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> xpath: //span[text()='My Account']]
+2019-07-06 21:09:53 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (7deb2619ac439dca4e0897ea6a2e3c8b)] -> xpath: //img[@class='logout-icon mr-2']] found
+2019-07-06 21:09:54 INFO  BasePage:33 - Page title validation : Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla are matched
+2019-07-06 21:15:17 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (f23450a2c4ede19d9ebb83a92b415b1c)] -> xpath: //a[@href="/womens-clothing/sarees/?MID=megamenu_sarees_seeall"]] found
+2019-07-06 21:15:18 INFO  BasePage:67 - Mouse hover event : Mousehovered on [[ChromeDriver: chrome on XP (f23450a2c4ede19d9ebb83a92b415b1c)] -> xpath: //a[@href="/womens-clothing/sarees/?MID=megamenu_sarees_seeall"]]
+2019-07-06 21:15:18 INFO  BasePage:98 - 
+2019-07-06 21:15:19 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (f23450a2c4ede19d9ebb83a92b415b1c)] -> link text: Linen Sarees] found
+2019-07-06 21:15:27 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (f23450a2c4ede19d9ebb83a92b415b1c)] -> xpath: //img[contains(@src,'1546488184-Craftsvilla_1.jpg')]] found
+2019-07-06 21:15:46 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (f23450a2c4ede19d9ebb83a92b415b1c)] -> id: buynow] found
+2019-07-06 21:16:16 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> xpath: //span[text()='Sign In']] found
+2019-07-06 21:16:17 INFO  BasePage:69 - 
+2019-07-06 21:16:17 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> id: emailId] found
+2019-07-06 21:16:19 INFO  BasePage:79 - abitha12345.j@gmail.com has been set to [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> id: emailId]
+2019-07-06 21:16:19 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> id: continueBtn] found
+2019-07-06 21:16:19 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> id: continueBtn]
+2019-07-06 21:16:20 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> id: js-password] found
+2019-07-06 21:16:21 INFO  BasePage:107 - Apple12346 has been set to [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> id: js-password]
+2019-07-06 21:16:21 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> id: loginCheck] found
+2019-07-06 21:16:21 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> id: loginCheck]
+2019-07-06 21:16:30 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> xpath: //span[text()='My Account']] found
+2019-07-06 21:16:30 INFO  BasePage:67 - Mouse hover event : Mousehovered on [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> xpath: //span[text()='My Account']]
+2019-07-06 21:16:31 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> xpath: //img[@class='logout-icon mr-2']] found
+2019-07-06 21:16:31 INFO  BasePage:33 - Page title validation : Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla are matched
+2019-07-06 21:16:36 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> xpath: //span[text()='Sign In']] found
+2019-07-06 21:16:37 INFO  BasePage:69 - 
+2019-07-06 21:16:37 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> id: emailId] found
+2019-07-06 21:16:38 INFO  BasePage:79 - sudarshan@gmail.com has been set to [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> id: emailId]
+2019-07-06 21:16:39 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> id: continueBtn] found
+2019-07-06 21:16:39 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> id: continueBtn]
+2019-07-06 21:16:39 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> id: js-password] found
+2019-07-06 21:16:40 INFO  BasePage:107 - Apple12347 has been set to [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> id: js-password]
+2019-07-06 21:16:40 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> id: loginCheck] found
+2019-07-06 21:16:40 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> id: loginCheck]
+2019-07-06 21:16:49 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> xpath: //span[text()='My Account']] found
+2019-07-06 21:16:49 INFO  BasePage:67 - Mouse hover event : Mousehovered on [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> xpath: //span[text()='My Account']]
+2019-07-06 21:16:50 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> xpath: //img[@class='logout-icon mr-2']] found
+2019-07-06 21:16:50 INFO  BasePage:33 - Page title validation : Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla are matched
+2019-07-06 21:16:55 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> xpath: //span[text()='Sign In']] found
+2019-07-06 21:16:55 INFO  BasePage:69 - 
+2019-07-06 21:16:56 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> id: emailId] found
+2019-07-06 21:16:56 INFO  BasePage:79 - yomi@gmail.com has been set to [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> id: emailId]
+2019-07-06 21:16:57 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> id: continueBtn] found
+2019-07-06 21:16:57 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> id: continueBtn]
+2019-07-06 21:16:58 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> id: js-password] found
+2019-07-06 21:16:58 INFO  BasePage:107 - Apple12348 has been set to [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> id: js-password]
+2019-07-06 21:16:59 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> id: loginCheck] found
+2019-07-06 21:16:59 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> id: loginCheck]
+2019-07-06 21:17:06 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> xpath: //span[text()='My Account']] found
+2019-07-06 21:17:07 INFO  BasePage:67 - Mouse hover event : Mousehovered on [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> xpath: //span[text()='My Account']]
+2019-07-06 21:17:07 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (3d846b8a0b63d82ac49b45b3a6c68fb4)] -> xpath: //img[@class='logout-icon mr-2']] found
+2019-07-06 21:17:07 INFO  BasePage:33 - Page title validation : Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla are matched
+2019-07-06 22:13:24 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (ddf8537564ff855e30e875306cf5db62)] -> xpath: //a[@href="/womens-clothing/sarees/?MID=megamenu_sarees_seeall"]] found
+2019-07-06 22:13:32 INFO  BasePage:67 - Mouse hover event : Mousehovered on [[ChromeDriver: chrome on XP (ddf8537564ff855e30e875306cf5db62)] -> xpath: //a[@href="/womens-clothing/sarees/?MID=megamenu_sarees_seeall"]]
+2019-07-06 22:13:32 INFO  BasePage:98 - 
+2019-07-06 22:14:03 ERROR BasePage:54 - Verify element visible : [[ChromeDriver: chrome on XP (ddf8537564ff855e30e875306cf5db62)] -> link text: Linen Sarees] not found - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.linkText: Linen Sarees' (tried for 10 second(s) with 500 milliseconds interval)
+2019-07-06 22:14:38 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (decd5ae92e09e0d62813078effc38acb)] -> xpath: //span[text()='Sign In']] found
+2019-07-06 22:14:39 INFO  BasePage:69 - 
+2019-07-06 22:14:39 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (decd5ae92e09e0d62813078effc38acb)] -> id: emailId] found
+2019-07-06 22:14:41 INFO  BasePage:79 - abitha12345.j@gmail.com has been set to [[ChromeDriver: chrome on XP (decd5ae92e09e0d62813078effc38acb)] -> id: emailId]
+2019-07-06 22:14:41 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (decd5ae92e09e0d62813078effc38acb)] -> id: continueBtn] found
+2019-07-06 22:14:42 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (decd5ae92e09e0d62813078effc38acb)] -> id: continueBtn]
+2019-07-06 22:14:42 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (decd5ae92e09e0d62813078effc38acb)] -> id: js-password] found
+2019-07-06 22:14:43 INFO  BasePage:107 - Apple12346 has been set to [[ChromeDriver: chrome on XP (decd5ae92e09e0d62813078effc38acb)] -> id: js-password]
+2019-07-06 22:14:43 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (decd5ae92e09e0d62813078effc38acb)] -> id: loginCheck] found
+2019-07-06 22:14:44 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (decd5ae92e09e0d62813078effc38acb)] -> id: loginCheck]
+2019-07-06 22:14:53 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (decd5ae92e09e0d62813078effc38acb)] -> xpath: //span[text()='My Account']] found
+2019-07-06 22:14:54 INFO  BasePage:67 - Mouse hover event : Mousehovered on [[ChromeDriver: chrome on XP (decd5ae92e09e0d62813078effc38acb)] -> xpath: //span[text()='My Account']]
+2019-07-06 22:14:54 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (decd5ae92e09e0d62813078effc38acb)] -> xpath: //img[@class='logout-icon mr-2']] found
+2019-07-06 22:14:55 INFO  BasePage:33 - Page title validation : Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla are matched
+2019-07-06 22:14:59 INFO  BasePage:50 - Verify element visible : [[ChromeDriver: chrome on XP (decd5ae92e09e0d62813078effc38acb)] -> xpath: //span[text()='Sign In']] found
+2019-07-06 22:15:02 ERROR BasePage:73 - 
+2019-07-06 22:15:12 ERROR BasePage:54 - Verify element visible : [[ChromeDriver: chrome on XP (decd5ae92e09e0d62813078effc38acb)] -> id: emailId] not found - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (decd5ae92e09e0d62813078effc38acb)] -> id: emailId] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:56951}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: decd5ae92e09e0d62813078effc38acb
+2019-07-06 22:15:23 ERROR BasePage:83 - unable to setsudarshan@gmail.com to [[ChromeDriver: chrome on XP (decd5ae92e09e0d62813078effc38acb)] -> id: emailId]org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:56951}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: decd5ae92e09e0d62813078effc38acb
+2019-07-06 22:15:33 ERROR BasePage:54 - Verify element visible : [[ChromeDriver: chrome on XP (decd5ae92e09e0d62813078effc38acb)] -> id: continueBtn] not found - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (decd5ae92e09e0d62813078effc38acb)] -> id: continueBtn] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:56951}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: decd5ae92e09e0d62813078effc38acb
+2019-07-06 22:15:52 ERROR BasePage:97 - unable to click on [[ChromeDriver: chrome on XP (decd5ae92e09e0d62813078effc38acb)] -> id: continueBtn]org.openqa.selenium.ElementNotVisibleException: element not interactable
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:56951}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: decd5ae92e09e0d62813078effc38acb
+2019-07-06 22:16:02 ERROR BasePage:54 - Verify element visible : [[ChromeDriver: chrome on XP (decd5ae92e09e0d62813078effc38acb)] -> id: js-password] not found - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (decd5ae92e09e0d62813078effc38acb)] -> id: js-password] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:56951}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: decd5ae92e09e0d62813078effc38acb
+2019-07-06 22:16:13 ERROR BasePage:111 - unable to setApple12347 to [[ChromeDriver: chrome on XP (decd5ae92e09e0d62813078effc38acb)] -> id: js-password]org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:56951}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: decd5ae92e09e0d62813078effc38acb
+2019-07-06 22:16:43 ERROR BasePage:54 - Verify element visible : Proxy element for: DefaultElementLocator 'By.id: loginCheck' not found - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.id: loginCheck' (tried for 10 second(s) with 500 milliseconds interval)
+2019-07-06 22:17:03 ERROR BasePage:126 - Unable to click on Proxy element for: DefaultElementLocator 'By.id: loginCheck'org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"loginCheck"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:56951}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.100, webStorageEnabled: true}
+Session ID: decd5ae92e09e0d62813078effc38acb
+*** Element info: {Using=id, value=loginCheck}
+2019-07-06 22:17:41 ERROR BasePage:38 - Page title validation : null and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla didnot match - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for title to be "Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla". Current title: "" (tried for 10 second(s) with 500 milliseconds interval)
+2019-07-06 22:17:51 ERROR BasePage:73 - 

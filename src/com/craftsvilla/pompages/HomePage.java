@@ -30,6 +30,14 @@ public class HomePage extends BasePage
 	private WebElement LNK_jewellery;
 	
 	
+	@FindBy(xpath="//span[text()='My Account']")// (xpath ="//i[@class='icon first_arrow hidden-xs']")
+	private WebElement account;
+	
+	@FindBy(xpath = "//img[@class='logout-icon mr-2']")
+	private WebElement logoutBtn;
+	
+	
+	
 	//Initialize
 	public HomePage(WebDriver driver)
 	{
@@ -85,13 +93,40 @@ public class HomePage extends BasePage
 	{
 		try
 		{
-			verifyElementPresent(LNK_signIn);
-			mouseHover(LNK_signIn);
+			verifyElementPresent(LNK_sarees);
+			mouseHover(LNK_sarees);
 			log.info("");
 		}
 		catch(Exception e)
 		{
 			log.error("");
+		}
+	}
+	
+	public void gotoAccount()
+	{
+		try
+		{
+		verifyElementPresent(account);
+		mouseHover(account);
+		}
+		catch(Exception e)
+		{
+			
+		}
+	}
+	
+	public boolean clickOnLogout()
+	{
+		try
+		{
+		verifyElementPresent(logoutBtn);
+		logoutBtn.click();
+		return true;
+		}
+		catch(Exception e)
+		{
+			return false;
 		}
 	}
 }

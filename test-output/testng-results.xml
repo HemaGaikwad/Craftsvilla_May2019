@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Craftsvilla" duration-ms="372557" started-at="2019-07-06T16:41:49Z" finished-at="2019-07-06T16:48:02Z">
+    <groups>
+    </groups>
+    <test name="Regression" duration-ms="372557" started-at="2019-07-06T16:41:49Z" finished-at="2019-07-06T16:48:02Z">
+      <class name="com.craftsvilla.testcripts.LogInScripts">
+        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:com.craftsvilla.testcripts.LogInScripts@26be92ad]" name="openApplication" is-config="true" duration-ms="20706" started-at="2019-07-06T16:44:06Z" finished-at="2019-07-06T16:44:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="tc_01_loginToApp()[pri:0, instance:com.craftsvilla.testcripts.LogInScripts@26be92ad]" name="tc_01_loginToApp" duration-ms="214305" started-at="2019-07-06T16:44:27Z" finished-at="2019-07-06T16:48:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_01_loginToApp -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:com.craftsvilla.testcripts.LogInScripts@26be92ad]" name="closeApplication" is-config="true" duration-ms="795" started-at="2019-07-06T16:48:01Z" finished-at="2019-07-06T16:48:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.craftsvilla.testcripts.LogInScripts -->
+      <class name="com.craftsvilla.testcripts.LinenSareesScripts">
+        <test-method status="PASS" signature="openApplication(java.lang.String)[pri:0, instance:com.craftsvilla.testcripts.LinenSareesScripts@1d057a39]" name="openApplication" is-config="true" duration-ms="66909" started-at="2019-07-06T16:41:50Z" finished-at="2019-07-06T16:42:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="tc_01_buyProductFromLinenSarees()[pri:0, instance:com.craftsvilla.testcripts.LinenSareesScripts@1d057a39]" name="tc_01_buyProductFromLinenSarees" duration-ms="66682" started-at="2019-07-06T16:42:56Z" finished-at="2019-07-06T16:44:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_01_buyProductFromLinenSarees -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:com.craftsvilla.testcripts.LinenSareesScripts@1d057a39]" name="closeApplication" is-config="true" duration-ms="2967" started-at="2019-07-06T16:44:03Z" finished-at="2019-07-06T16:44:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.craftsvilla.testcripts.LinenSareesScripts -->
+    </test> <!-- Regression -->
+  </suite> <!-- Craftsvilla -->
+</testng-results>

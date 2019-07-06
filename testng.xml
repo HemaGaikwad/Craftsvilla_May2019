@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Craftsvilla">
-  <test thread-count="5" name="Regression">
+<listeners>
+<listener class-name="com.craftsvilla.generic.ScreenshotCapture"></listener>
+</listeners>
+<parameter name = "browser" value ="chrome"></parameter>
+  <test  name="Regression">
+  <classes>
+ <class name = "com.craftsvilla.testcripts.LinenSareesScripts"></class>
+ <class name="com.craftsvilla.testcripts.LogInScripts"></class>
+  </classes>
   </test> <!-- Regression -->
 </suite> <!-- Craftsvilla -->
